@@ -1,4 +1,4 @@
-# Dante
+# Dante 🖇
 
 Welcome to **Dante**.
 
